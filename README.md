@@ -7,7 +7,7 @@
 
 This is a clone of the Upstox website created using HTML, CSS, Bootstrap, and JavaScript. The project aims to replicate the look and functionality of certain sections of the Upstox website, specifically focusing on the FAQs section.
 
-![Watch the video][(https://github.com/RitickLath/Upstox_clone_E/assets/114455908/a7ce72fa-38a2-4aca-8ca4-c2b4c809b104)]
+https://github.com/RitickLath/Upstox_clone_E/assets/114455908/a7ce72fa-38a2-4aca-8ca4-c2b4c809b104
 
 ## Table of Contents
 
